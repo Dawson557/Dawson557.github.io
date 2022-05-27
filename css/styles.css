@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+body {
+  font-family: Roboto sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 70px 0 0 0;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #072A40;
+  padding: 10px 20px;
+}
+
+.navbar-logo {
+  border-radius: 20%;
+  font-size: 1.5rem;
+  font-weight: 900;
+  padding: 7px 10px;
+}
+
+.nav-item {
+  font-size: 1.2rem;
+  margin: 0 10px;
+}
+
+.active-page {
+  color:   #F17865;
+}
+
+/* Side navigation bar */
+.sidebar {
+  background-color: #bbd6ed;
+  height: 100%;
+  padding: 0;
+}
+
+.accordion-button {
+  background-color: #bbd6ed;
+  font-size: 1.1rem;
+}
+
+
+/* Main viewing window */
+.main-window {
+  height: 100%;
+}
